@@ -4,27 +4,26 @@ highlighter: pygments
 
 # Permalinks
 permalink: /:title.html
-# relative_permalinks: true
 
 # Setup
 title: Cook it up!
 tagline: 'A food blog'
 description: >
   A fun cooking blog that's gonna stir up some grumbling in that good ol' tum of you.
-# url: cookingblog.github.io
-baseurl:          /
+url: cookitup.github.io
+baseurl: /
 
 author:
   name: 'Justen Rickert'
-  url: 'justenrickert.github.io'
+  url: 'cookitup.github.io'
 
 paginate: 5
 
 # Custom vars
 # version:          2.1.0
 
-# github:
-#   repo:           https://github.com/
+github:
+  repo: https://github.com/JustenRickert/cookitup.github.io
 
 gem:
   - jekyll-paginate
