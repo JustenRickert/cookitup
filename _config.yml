@@ -11,7 +11,7 @@ tagline: 'A food blog'
 description: >
   A fun cooking blog that's gonna stir up some grumbling in that good ol' tum of you.
 url: 'justenrickert.github.io/cookitup'
-baseurl: /
+baseurl: 'justenrickert.github.io/'
 
 author:
   name: 'Justen Rickert'
@@ -23,7 +23,7 @@ paginate: 5
 # version:          2.1.0
 
 github:
-  repo: https://github.com/JustenRickert/cookitup.github.io
+  repo: 'https://github.com/JustenRickert/cookitup.github.io'
 
 gem:
   - jekyll-paginate
