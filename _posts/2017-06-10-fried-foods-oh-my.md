@@ -19,4 +19,4 @@ When you try this fried chicken, you're gonna say "boy that's fried chicken!"
 ![Fried Chicken](http://images.media-allrecipes.com/userphotos/560x315/2142598.jpg)
 
 Next time you're thinking about eating you should try to stumble upon this
-fantastic recipe~
+fantastic recipe!
