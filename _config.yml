@@ -11,7 +11,7 @@ tagline: 'A food blog'
 description: >
   A fun cooking blog that's gonna stir up some grumbling in that good ol' tum of you.
 url: 'justenrickert.github.io/cookitup'
-baseurl: 'justenrickert.github.io/'
+baseurl: /justenrickert.github.io/cookitup/
 
 author:
   name: 'Justen Rickert'
