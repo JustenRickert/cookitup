@@ -1,6 +1,11 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+
+        {% if page.title == 'Home' %}
+        <div class="greeter"><i id="thermometer" class="fa fa-thermometer-empty" aria-hidden="true"></i><span id="greet"></span></div>
+        {% endif %}
+
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}

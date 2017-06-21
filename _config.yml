@@ -1,3 +1,5 @@
+exclude: [node_modules, gulpfile.js, yarn.lock, package.json]
+
 # Dependencies
 markdown: kramdown
 

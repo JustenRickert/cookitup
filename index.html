@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<script src="dist/greeter.js"></script>
+
 <div class="posts">
 
   {% for post in paginator.posts %}
@@ -38,7 +40,7 @@ title: Home
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{ paginator.previous_page }}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
